@@ -14,7 +14,7 @@ This project provides a simple yet powerful Python script for predicting gold pr
 - **Visualization**: Compare actual and predicted gold prices in a line plot.
 
 ## Requirements
-- Python 3.x
+- Python 3.11.4
 - NumPy
 - Pandas
 - Matplotlib
